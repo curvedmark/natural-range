@@ -1,0 +1,31 @@
+{
+  "name": "natural-range",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/Range.js",
+  "directories": {
+  	"lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --bail --ui qunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/curvedmark/natural-range.git"
+  },
+  "keywords": [
+    "range",
+    "sort",
+    "util",
+    "utility"
+  ],
+  "author": "Glen Huang <curvedmark@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/curvedmark/natural-range/issues"
+  },
+  "devDependencies": {
+    "mocha": "1.x"
+  }
+}
